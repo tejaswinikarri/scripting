@@ -1,2 +1,2 @@
 #!bin/bash
-echo "myfirstscript"
+echo "myfirst script"
